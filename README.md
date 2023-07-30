@@ -1,6 +1,6 @@
 - 👋 Olá, eu sou Gilberto Gaspar 
 
-- 🌱 Atualmente estou estudando desenvolvimento Web na Trybe 
+- 🌱 Atualmente estou estudando desenvolvimento Web pelo OneBitCode
 - 📫 Contate-me no e-mail: gilberto.sgaspar@gmail.com
 <!---
 betogaspar/betogaspar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
